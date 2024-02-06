@@ -14,6 +14,6 @@
     class TempConvert
     {
         public double C = 0.0;
-        public double F = 32;
+        public double F = 320;
     }
 }
